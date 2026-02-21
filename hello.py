@@ -1,1 +1,1 @@
-print("Change from master branch")
+print("Change from conflict branch")
